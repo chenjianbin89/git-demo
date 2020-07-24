@@ -13,6 +13,6 @@ public class GitDemoApplication {
     }
     @RequestMapping("/")
     public String helloGit(){
-        return "Hello Git!----->github use ssh";
+        return "我要去华北，我要挣25k";
     }
 }
