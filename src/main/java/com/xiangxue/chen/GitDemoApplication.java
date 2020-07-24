@@ -13,6 +13,6 @@ public class GitDemoApplication {
     }
     @RequestMapping("/")
     public String helloGit(){
-        return "Hello Git!----->github version1";
+        return "Hello Git!----->github use ssh";
     }
 }
