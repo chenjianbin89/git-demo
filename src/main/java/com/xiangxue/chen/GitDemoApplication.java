@@ -13,6 +13,6 @@ public class GitDemoApplication {
     }
     @RequestMapping("/")
     public String helloGit(){
-        return "Hello Git!";
+        return "Hello Git!hahaha";
     }
 }
